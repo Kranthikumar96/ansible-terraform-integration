@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.kranthicart.fun
+USER_HOST: user.kranthicart.fun
+CART_HOST: cart.kranthicart.fun
+SHIPPING_HOST: shipping.kranthicart.fun
+PAYMENT_HOST: payment.kranthicart.fun

@@ -1,0 +1,2 @@
+REDIS_HOST: redis.kranthicart.fun
+MONGODB_HOST: mongodb.kranthicart.fun
