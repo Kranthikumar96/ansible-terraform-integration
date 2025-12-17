@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.kranthicart.fun
+MONGODB_HOST: mongodb-{{ env }}.kranthicart.fun
