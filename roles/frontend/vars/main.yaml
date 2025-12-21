@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.kranthicart.fun
-USER_HOST: user.kranthicart.fun
-CART_HOST: cart.kranthicart.fun
-SHIPPING_HOST: shipping.kranthicart.fun
-PAYMENT_HOST: payment.kranthicart.fun
+CATALOGUE_HOST: catalogue.backend-{{ env }}.kranthicart.fun
+USER_HOST: user.backend-{{ env }}.kranthicart.fun
+CART_HOST: cart.backend-{{ env }}.kranthicart.fun
+SHIPPING_HOST: shipping.backend-{{ env }}.kranthicart.fun
+PAYMENT_HOST: payment.backend-{{ env }}.kranthicart.fun
