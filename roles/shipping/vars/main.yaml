@@ -1,4 +1,4 @@
-MYSQL_HOST: mysql.kranthicart.fun
+MYSQL_HOST: mysql-{{ env }}.kranthicart.fun
 MYSQL_ROOT_USER: root
 MYSQL_ROOT_PASSWORD: RoboShop@1
-CART_HOST: cart.kranthicart.fun
+CART_HOST: cart.backend-{{ env }}kranthicart.fun

@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue.kranthicart.fun
-REDIS_HOST: redis.kranthicart.fun
+CATALOGUE_HOST: catalogue.backend-{{ env }}.kranthicart.fun
+REDIS_HOST: redis-{{ env }}.kranthicart.fun

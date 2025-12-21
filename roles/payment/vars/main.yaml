@@ -1,5 +1,5 @@
-CART_HOST: cart.kranthicart.fun
-USER_HOST: user.kranthicart.fun
-RABBITMQ_HOST: rabbitmq.kranthicart.fun
+CART_HOST: cart.backend-{{ env }}.kranthicart.fun
+USER_HOST: user.backend-{{ env }}.kranthicart.fun
+RABBITMQ_HOST: rabbitmq-{{ env }}.kranthicart.fun
 RABBITMQ_USER: roboshop
 RABBITMQ_PASSWORD: roboshop123

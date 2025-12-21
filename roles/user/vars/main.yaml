@@ -1,2 +1,2 @@
-REDIS_HOST: redis.kranthicart.fun
-MONGODB_HOST: mongodb.kranthicart.fun
+REDIS_HOST: redis-{{ env }}.kranthicart.fun
+MONGODB_HOST: mongodb-{{ env }}.kranthicart.fun
